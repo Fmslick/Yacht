@@ -3843,7 +3843,7 @@
         {
           "WORDPRESS_DB_HOST": "dbhost",
           "WORDPRESS_DB_USER": "dbusername",
-          "WORDPRESS_DB_PASSWORD": "dbpassword"
+          "WORDPRESS_DB_PASSWORD": "dbpassword",
           "WORDPRESS_DB_NAME": "dbname"
         }
       ]
